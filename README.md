@@ -1,5 +1,10 @@
-# GIS-Dissertation
+GIS Masters Dissertation
+===================
+
 All code used in the completion of the Master's dissertation thesis, "Modeling Water Quality in the Lower Mekong Basin: Land Use and Macroinvertebrates as Proxy Indicators".
+
+Notes
+------
 
 All filed were created and run in R version 4.4.2 (R Core Team 2024).
 
